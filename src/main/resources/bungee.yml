@@ -1,0 +1,5 @@
+name: ManageTheSG
+version: '${version}'
+main: fr.skygames.managethesg.Main
+author: FullGreen_
+description: Manage The SkyGames
